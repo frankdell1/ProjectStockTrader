@@ -21,7 +21,7 @@ datet=datetime.datetime.today()
 
 yf.pdr_override()
 
-startDate="2020-10-01"
+startDate="2024-12-01"
 endDate=str(datet.date())
 
 stockChoice="UAL"
